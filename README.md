@@ -47,10 +47,8 @@ churn-prediction/
 │   ├── oheEncoder.pkl         # One hot encoder
 │   ├── scalar.pkl             # StandardScaler
 │   └── model.h5               # Trained ANN model
-├── notebooks/                 # Jupyter notebooks (optional)
+├── ANN-class-impl.ipynb               # Jupyter notebooks (optional)
 ├── app.py                     # Streamlit app for model inference
-├── train.py                   # Script to train the model
-└── requirements.txt           # Python dependencies
 ```
 ### Contributing
 ```
